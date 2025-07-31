@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <h1>Welcome to CICD S112</h1>
-      <h2>I'm 2300030656 from this sec</h2>
+      <h2>I'm 2300030656 from this section</h2>
     </>
   )
 }
