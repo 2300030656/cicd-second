@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Chandu06-M.github.io/cicd-second/",
+  "homepage": "https://2300030656-M.github.io/cicd-second/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
